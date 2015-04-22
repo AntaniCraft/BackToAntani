@@ -1,0 +1,10 @@
+{
+    "description": "Back To Antani Modpack",
+    "forgever": "10.13.3.1370",
+    "mcversion": "1.7.10",
+    "mods": {
+        "Not Enough Items": "1.0.4.95"
+    },
+    "url": "http://mosconidebugging.biz/antani",
+    "version": "0.0.1"
+}
