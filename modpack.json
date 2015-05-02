@@ -3,7 +3,8 @@
     "forgever": "10.13.3.1370",
     "mcversion": "1.7.10",
     "mods": {
-        "Not Enough Items": "1.0.4.95"
+        "Not Enough Items": "1.0.4.95",
+	"waila": "1.5.10_1.7.10"
     },
     "url": "http://mosconidebugging.biz/antani",
     "version": "0.0.1"
