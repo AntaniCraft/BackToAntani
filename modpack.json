@@ -3,6 +3,7 @@
     "forgever": "10.13.3.1370",
     "mcversion": "1.7.10",
     "mods": {
+	"CoFHCore": "3.0.2",
 	"CodeChickenCore": "1.0.5.37",
         "NEI": "1.0.4.95",
 	"Waila": "1.5.10_1.7.10",
@@ -11,5 +12,5 @@
 	"ThermalExpansion": "4.0.1"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.0.3"
+    "version": "0.0.4"
 }
