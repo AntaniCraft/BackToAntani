@@ -5,7 +5,9 @@
     "mods": {
         "NEI": "1.0.4.95",
 	"Waila": "1.5.10_1.7.10",
-	"ExtraUtilities": "1.2.4b"
+	"ExtraUtilities": "1.2.4b",
+	"ThermalFoundation": "1.0.0",
+	"ThermalExpansion": "4.0.1"
     },
     "url": "http://mosconidebugging.biz/antani",
     "version": "0.0.2"
