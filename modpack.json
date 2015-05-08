@@ -5,12 +5,22 @@
     "mods": {
 	"CoFHCore": "3.0.2",
 	"CodeChickenCore": "1.0.5.37",
+	"openmodslib": "0.7.1",
         "NEI": "1.0.4.95",
+	"InventoryTweaks": "1.59-dev-152-cf6e263",
+	"IronChests": "6.0.62.742",
 	"Waila": "1.5.10_1.7.10",
+	"Wawla": "1.2.1",
 	"ExtraUtilities": "1.2.4b",
 	"ThermalFoundation": "1.0.0",
-	"ThermalExpansion": "4.0.1"
+	"ThermalExpansion": "4.0.1",
+	"RFTools": "2.83",
+	"ComputerCraft": "1.73",
+	"OpenComputers": "1.5.8.17",
+	"Railcraft": "9.6.1.0",
+	"AE2": "rv2-beta-9",
+	"IntegratedCircuits": "1.7.10-0.8r34b"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.0.4"
+    "version": "0.0.5"
 }
