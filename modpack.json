@@ -31,8 +31,8 @@
         "TinkersConstruct": "1.8.4a",
         "Waila": "1.5.10_1.7.10",
         "Wawla": "1.2.1",
-        "openmodslib": "0.7.1"
+        "openmodslib": "0.7.3"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.0.6"
+    "version": "0.0.7"
 }
