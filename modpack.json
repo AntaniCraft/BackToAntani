@@ -12,6 +12,7 @@
         "IntegratedCircuits": "1.7.10-0.8r34b",
         "InventoryTweaks": "1.59-dev-152-cf6e263",
         "IronChests": "6.0.62.742",
+        "Jabba": "1.2.1a",
         "Mantle": "0.3.2.jenkins184",
         "NEI": "1.0.4.95",
         "OpenComputers": "1.5.8.17",
@@ -35,5 +36,5 @@
         "openmodslib": "0.7.3"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.0.9"
+    "version": "0.0.10"
 }
