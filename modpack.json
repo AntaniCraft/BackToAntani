@@ -50,7 +50,8 @@
         "TinkersConstruct": "1.8.4a",
         "Waila": "1.5.10_1.7.10",
         "Wawla": "1.2.1",
-        "Witchery": "1.7.10-0.24.1"
+        "Witchery": "1.7.10-0.24.1",
+        "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
     "version": "0.1.1"
