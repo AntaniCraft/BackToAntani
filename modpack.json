@@ -6,15 +6,19 @@
         "AE2": "rv2-stable-1",
         "AOBD": "2.6.2",
         "BigReactors": "0.4.3A",
+        "BinniesMods": "2.0-pre8",
         "BloodMagic": "v1.3.2-1",
+        "Botania": "r1.6-189",
         "Buildcraft": "7.0.4",
         "CoFHCore": "3.0.2",
         "CodeChickenCore": "1.0.5.37",
         "ComputerCraft": "1.73",
+        "CustomMobSpawner": "3.3.0",
         "DraconicEvolution": "v1.0.1c",
         "EnderStorage": "1.4.7.33",
         "ExtraUtilities": "1.2.4b",
         "Forestry": "3.5.6.15",
+        "Hats": "4.0.1",
         "IC2": "2.2.720-experimental",
         "IntegratedCircuits": "1.7.10-0.8r34b",
         "InventoryTweaks": "1.59-dev-152-cf6e263",
@@ -56,5 +60,5 @@
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.1.4"
+    "version": "0.1.5"
 }
