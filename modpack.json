@@ -47,11 +47,11 @@
         "OpenPeripheralCore": "1.1.1",
         "OpenPeripheralIntegration": "0.2.2",
         "PortalGun": "4.0.0-beta-4",
-        "ProjectRedBase": "4.5.16.77",
-        "ProjectRedCompat": "4.5.16.77",
-        "ProjectRedIntegration": "4.5.16.77",
-        "ProjectRedLighting": "4.5.16.77",
-        "ProjectRedWorld": "4.5.16.77",
+        "ProjectRedBase": "4.6.2.82",
+        "ProjectRedCompat": "4.6.2.82",
+        "ProjectRedIntegration": "4.6.2.82",
+        "ProjectRedLighting": "4.6.2.82",
+        "ProjectRedWorld": "4.6.2.82",
         "RFTools": "2.93",
         "Railcraft": "9.6.1.0",
         "Ruins": "1.7.10",
@@ -68,5 +68,5 @@
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.2.0"
+    "version": "0.2.1"
 }
