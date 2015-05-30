@@ -1,6 +1,6 @@
 {
     "description": "Back To Antani Modpack",
-    "forgever": "10.13.3.1384",
+    "forgever": "10.13.3.1420",
     "mcversion": "1.7.10",
     "mods": {
         "AE2": "rv2-stable-1",
@@ -14,6 +14,8 @@
         "CodeChickenCore": "1.0.5.37",
         "ComputerCraft": "1.73",
         "CustomMobSpawner": "3.3.0",
+        "DeathCounter": "4.0.0",
+        "DimensionalPockets": "0.10.4",
         "DraconicEvolution": "v1.0.1c",
         "EnderStorage": "1.4.7.33",
         "ExtraUtilities": "1.2.4b",
@@ -44,7 +46,7 @@
         "ProjectRedIntegration": "4.5.16.77",
         "ProjectRedLighting": "4.5.16.77",
         "ProjectRedWorld": "4.5.16.77",
-        "RFTools": "2.83",
+        "RFTools": "2.93",
         "Railcraft": "9.6.1.0",
         "Ruins": "1.7.10",
         "SimplyJetpacks": "1.4.1",
@@ -60,5 +62,5 @@
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.1.8"
+    "version": "0.2.0"
 }
