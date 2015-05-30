@@ -24,6 +24,7 @@
         "EnchantingPlus": "1.7.10-3.0.1",
         "EnderStorage": "1.4.7.33",
         "ExtraUtilities": "1.2.4b",
+        "ForbiddenMagic": "1.7.10-0.562",
         "Forestry": "3.5.6.15",
         "Hats": "4.0.1",
         "IC2": "2.2.720-experimental",
@@ -58,15 +59,18 @@
         "SimplyJetpacks": "1.5.1",
         "SolarExpansion": "1.6a",
         "Thaumcraft": "4.2.3.5",
+        "ThaumicEnergistics": "0.8.10.5",
+        "ThaumicTinkerer": "2.5-1.7.10-164",
         "TheTwilightForest": "2.3.7",
         "ThermalExpansion": "4.0.1",
         "ThermalFoundation": "1.0.0",
         "TinkersConstruct": "1.8.5",
+        "TMechworks": "0.2.14.100",
         "Waila": "1.5.10_1.7.10",
         "Wawla": "1.2.1",
         "Witchery": "1.7.10-0.24.1",
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.3.0"
+    "version": "0.3.1"
 }
