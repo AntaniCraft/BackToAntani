@@ -1,6 +1,6 @@
 {
     "description": "Back To Antani Modpack",
-    "forgever": "10.13.4.1470",
+    "forgever": "10.13.4.1472",
     "mcversion": "1.7.10",
     "mods": {
         "AE2": "rv2-stable-9",
@@ -55,7 +55,7 @@
         "ProjectRedIntegration": "4.6.2.82",
         "ProjectRedLighting": "4.6.2.82",
         "ProjectRedWorld": "4.6.2.82",
-        "RFTools": "3.02",
+        "RFTools": "3.10",
         "Railcraft": "9.6.1.0",
         "Ruins": "1.7.10",
         "SimplyJetpacks": "1.5.1",
@@ -74,5 +74,5 @@
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.4.0"
+    "version": "0.4.1"
 }
