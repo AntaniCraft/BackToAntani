@@ -1,6 +1,6 @@
 {
     "description": "Back To Antani Modpack",
-    "forgever": "10.13.4.1472",
+    "forgever": "10.13.4.1481",
     "mcversion": "1.7.10",
     "mods": {
         "AE2": "rv2-stable-9",
@@ -12,11 +12,11 @@
         "BigReactors": "0.4.3A",
         "BinniesMods": "2.0-pre12",
         "BloodMagic": "v1.3.3-4",
-        "Botania": "r1.6-193",
-        "Buildcraft": "7.0.11",
+        "Botania": "r1.6-196",
+        "Buildcraft": "7.0.12",
         "CoFHCore": "3.0.2",
         "CodeChickenCore": "1.0.6.43",
-        "ComputerCraft": "1.73",
+        "ComputerCraft": "1.74",
         "CustomMobSpawner": "3.3.0",
         "DeathCounter": "4.0.0",
         "DimensionalPockets": "0.10.5",
@@ -24,11 +24,11 @@
         "EnchantingPlus": "1.7.10-3.0.1",
         "EnderStorage": "1.4.7.33",
         "ExtraUtilities": "1.2.6",
-        "ForbiddenMagic": "1.7.10-0.562",
-        "Forestry": "3.5.7.16",
+        "ForbiddenMagic": "1.7.10-0.57",
+        "Forestry": "3.6.2.19",
         "GuideAPI": "1.7.10-1.0.1-20",
         "Hats": "4.0.1",
-        "IC2": "2.2.736-experimental",
+        "IC2": "2.2.741-experimental",
         "IntegratedCircuits": "1.7.10-0.8r34b",
         "InventoryTweaks": "1.59-dev-152-cf6e263",
         "IronChests": "6.0.62.742",
@@ -44,7 +44,7 @@
         "Natura": "2.2.0.1",
         "OmnisCore": "0.0.5",
         "OpenBlocks": "1.4.3",
-        "OpenComputers": "1.5.12.26",
+        "OpenComputers": "1.5.13.28",
         "OpenModsLib": "0.7.3",
         "OpenPeripheralAddons": "0.3.1",
         "OpenPeripheralCore": "1.1.1",
@@ -74,5 +74,5 @@
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.4.1"
+    "version": "0.4.2"
 }
