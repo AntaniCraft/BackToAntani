@@ -37,10 +37,10 @@
         "Mantle": "0.3.2.jenkins184",
         "MoCreatures": "6.3.1",
         "MrTJPCore": "1.0.9.18",
-        "NEI": "1.0.4.95",
-        "NEIAddons": "1.12.8.31",
-        "NEIIntegration": "1.0.9",
-        "NEIThaumcraft": "1.7.10-1.7",
+        "NEI": "1.0.4.107",
+        "NEIAddons": "1.12.10.33",
+        "NEIIntegration": "1.0.11",
+        "NEIThaumcraft": "1.7.10-1.7a",
         "Natura": "2.2.0.1",
         "OmnisCore": "0.0.5",
         "OpenBlocks": "1.4.3",
@@ -69,10 +69,10 @@
         "TinkerIO": "0.2.14.DEV.GITBORK",
         "TinkersConstruct": "1.8.5",
         "Waila": "1.5.10_1.7.10",
-        "Wawla": "1.2.1",
+        "Wawla": "1.3.1",
         "Witchery": "1.7.10-0.24.1",
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.4.2"
+    "version": "0.4.3"
 }
