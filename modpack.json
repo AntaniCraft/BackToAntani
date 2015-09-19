@@ -28,7 +28,7 @@
         "Forestry": "3.6.3.20",
         "GuideAPI": "1.7.10-1.0.1-20",
         "Hats": "4.0.1",
-        "IC2": "2.2.765-experimental",
+        "IC2": "2.2.774-experimental",
         "IntegratedCircuits": "1.7.10-0.9r36",
         "InventoryTweaks": "1.59-dev-152-cf6e263",
         "IronChests": "6.0.62.742",
@@ -56,7 +56,7 @@
         "ProjectRedIntegration": "4.6.2.82",
         "ProjectRedLighting": "4.6.2.82",
         "ProjectRedWorld": "4.6.2.82",
-        "RFTools": "3.33",
+        "RFTools": "3.35",
         "Railcraft": "9.7.0.0",
         "Ruins": "1.7.10",
         "SimplyJetpacks": "1.5.1",
@@ -75,5 +75,5 @@
         "iChunUtil": "4.2.2"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.4.6"
+    "version": "0.4.7"
 }
