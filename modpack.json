@@ -73,8 +73,9 @@
         "Wawla": "1.3.1",
         "Witchery": "1.7.10-0.24.1",
         "iChunUtil": "4.2.2",
-	"Gendustry": "1.6.1.126"
+	"Gendustry": "1.6.1.126",
+	"Bdlib":"1.9.3.107"
     },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "0.4.9"
+    "version": "0.5.1b"
 }
