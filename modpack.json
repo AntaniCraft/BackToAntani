@@ -34,7 +34,7 @@
         "MrTJPCore": "1.0.9.18",
         "NEI": "1.0.5.118",
         "NEIAddons": "1.12.14.40",
-        "NEIIntegration": "1.0.11",
+        "NEIIntegration": "1.1.1",
         "NEIThaumcraft": "1.7.10-1.7a",
         "Natura": "2.2.0.1",
         "OmnisCore": "0.0.6",
@@ -67,8 +67,9 @@
         "iChunUtil": "4.2.2",
         "ProjectE": "1.9.5",
         "BrandonsCore": "1.0.0.10",
-        "Bookshelf": "1.0.4.172"
+        "Bookshelf": "1.0.4.172",
+        "VersionChecker": "1.1.9"
         },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
