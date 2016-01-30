@@ -3,12 +3,11 @@
     "forgever": "10.13.4.1614",
     "mcversion": "1.7.10",
     "mods": {
-        "AE2": "rv2-stable-10",
+        "AE2": "rv3-beta-5",
         "AOBD": "2.9.0",
         "BetterDungeons": "1.0",
         "BiblioCraft": "1.11.4",
         "BigReactors": "0.4.3A",
-        "BinniesMods": "2.0-pre14",
         "BloodMagic": "v1.3.3-17",
         "Botania": "r1.8-248",
         "Buildcraft": "7.1.14",
@@ -71,5 +70,5 @@
         "Bookshelf": "1.0.4.172"
         },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "1.0.2b"
+    "version": "1.0.0"
 }
