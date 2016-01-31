@@ -21,7 +21,7 @@
         "EnderStorage": "1.4.7.37",
         "ExtraUtilities": "1.2.12",
         "ForbiddenMagic": "1.7.10-0.573",
-        "Forestry": "4.2.6.54",
+        "Forestry": "3.6.3.20",
         "GuideAPI": "1.7.10-1.0.1-20",
         "IC2": "2.2.811-experimental",
         "IntegratedCircuits": "1.7.10-0.9r37c",
@@ -72,5 +72,5 @@
         "BinniesMods": "2.0-pre14"
         },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "1.0.2"
+    "version": "1.0.3"
 }
