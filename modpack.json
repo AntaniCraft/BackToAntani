@@ -38,7 +38,7 @@
         "NEIThaumcraft": "1.7.10-1.7a",
         "Natura": "2.2.0.1",
         "OmnisCore": "0.0.6",
-        "OpenBlocks": "1.5",
+        "OpenBlocks": "1.5.1",
         "OpenModsLib": "0.9.1",
         "OpenPeripheralAddons": "0.5",
         "OpenPeripheralCore": "1.2.1",
@@ -72,5 +72,5 @@
         "BinniesMods": "2.0-pre14"
         },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "1.0.4"
+    "version": "1.0.5"
 }
