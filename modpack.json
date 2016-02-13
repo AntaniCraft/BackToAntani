@@ -4,7 +4,7 @@
     "mcversion": "1.7.10",
     "mods": {
         "AE2": "rv3-beta-5",
-        "AOBD": "2.9.0",
+        "AOBD": "2.9.1",
         "BetterDungeons": "1.0",
         "BiblioCraft": "1.11.4",
         "BigReactors": "0.4.3A",
@@ -39,17 +39,17 @@
         "Natura": "2.2.0.1",
         "OmnisCore": "0.0.6",
         "OpenBlocks": "1.5",
-        "OpenModsLib": "0.9",
+        "OpenModsLib": "0.9.1",
         "OpenPeripheralAddons": "0.5",
         "OpenPeripheralCore": "1.2.1",
-        "OpenPeripheralIntegration": "0.4",
+        "OpenPeripheralIntegration": "0.5",
         "PortalGun": "4.0.0-beta-6",
-        "ProjectRedBase": "4.7.0.93",
-        "ProjectRedCompat": "4.7.0.93",
-        "ProjectRedIntegration": "4.7.0.93",
-        "ProjectRedLighting": "4.7.0.93",
-        "ProjectRedWorld": "4.7.0.93",
-        "RFTools": "4.21",
+        "ProjectRedBase": "4.7.0.95",
+        "ProjectRedCompat": "4.7.0.95",
+        "ProjectRedIntegration": "4.7.0.95",
+        "ProjectRedLighting": "4.7.0.95",
+        "ProjectRedWorld": "4.7.0.95",
+        "RFTools": "4.22",
         "Railcraft": "9.8.0.0",
         "SimplyJetpacks": "1.5.3",
         "SolarExpansion": "1.6a",
@@ -72,5 +72,5 @@
         "BinniesMods": "2.0-pre14"
         },
     "url": "http://mosconidebugging.biz/antani",
-    "version": "1.0.3"
+    "version": "1.0.4"
 }
